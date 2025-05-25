@@ -1,0 +1,7 @@
+# Ignore raw data and unnecessary system files
+data/
+*.csv
+*.pyc
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
